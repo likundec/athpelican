@@ -36,7 +36,7 @@ Figure 2: Civil society repression and regulations
     Booktitle = {Routledge Handbook of {NGOs} and International Relations},
     Editor = {Thomas Davies},
     Publisher = {Routledge},
-    Title = {{NGOs} and Authoritarianism},
+    Title = {NGOs and Authoritarianism},
     Chapter = {38},
     Year = {2019}}
 ```
